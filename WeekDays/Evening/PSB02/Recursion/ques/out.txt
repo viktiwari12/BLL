@@ -1,0 +1,5 @@
+[m, n, o]
+jkl
+[jm, jn, jo, km, kn, ko, lm, ln, lo]
+ghi
+[gjm, gjn, gjo, gkm, gkn, gko, glm, gln, glo, hjm, hjn, hjo, hkm, hkn, hko, hlm, hln, hlo, ijm, ijn, ijo, ikm, ikn, iko, ilm, iln, ilo]

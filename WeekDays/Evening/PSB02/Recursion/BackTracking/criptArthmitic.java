@@ -1,10 +1,13 @@
 import java.util.*;
+// Lecode 1307 -> TLE
+//https://leetcode.com/problems/verbal-arithmetic-puzzle/
 
+// https://leetcode.com/problems/word-search/
 public class criptArthmitic {
     public static void main(String[] args) {
         String[] words = { "SEND", "MORE" };
         String res = "MONEY";
-        HashMap<Character, Integer> hm = new HashMap<>();
+        HashMap<Character, Integer> hm = new HashMap<>(); // Can you do this using array instead of HasHamp.
         HashSet<Character> hs = new HashSet<>();
         String unq = unqstr(words, res, hm, hs);
         boolean vis[] = new boolean[10];

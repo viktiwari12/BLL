@@ -1,4 +1,5 @@
 public class wrdbrk{
+    // https://leetcode.com/problems/word-search/description/
      public static int direction[][] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
     public static void main(String[] args) {
         // PLease Handle the iNput by yourself 

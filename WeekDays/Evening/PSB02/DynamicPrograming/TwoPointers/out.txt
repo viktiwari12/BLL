@@ -1,4 +1,7 @@
-832040
-Count2  1346268
-832040
-Count ->  29
+0  1  1  2  3  5  8  13  21  34  55  
+
+
+2 inetration 
+
+Space:- Array Space 
+ + Axulary Stack (Recursive stack ) space 

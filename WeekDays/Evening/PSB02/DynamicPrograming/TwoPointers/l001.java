@@ -11,17 +11,18 @@ public class l001 {
         //4)Memoise it 
         //5)Convert the memosied code into tabulation 
         //6) Look if it can be Further Optmised? (Space Optmisation )
-        int n = 30; 
+        int n = 10; 
         int dp[] = new int [n+1];
 
-        int temp = fib(n);
-        System.out.println(temp);
-        System.out.println("Count2  " + count2);
+       // int temp = fib(n);
+        //System.out.println(temp);
+        //System.out.println("Count2  " + count2);
         Arrays.fill(dp, -1);
         int ans = fib_memo(n, dp);
-        System.out.println(ans);
+       //System.out.println(ans);
 
-        System.out.println("Count ->  " + count);
+        //System.out.println("Count ->  " + count);
+        display(dp);
     }  
     // recursive code 
     public static int fib(int n){
@@ -67,7 +68,7 @@ public class l001 {
 
     public static int fib_memo(int n, int dp[]){
         // base Case 
-        if(n <= 1)return n;
+        if(n <= 1)return dp[n]= n;
 
         //jsut check if ical 
 
@@ -82,6 +83,36 @@ public class l001 {
 
         dp[n] = ans;
         return ans ;
+    }
+    public static int fibo_memo01(int n, int dp[]){
+        if(n<=1) return dp[n] = n;
+
+        if(dp[n] != -1) return dp[n];
+        return fibo_memo01(n-1, dp) + fibo_memo01(n-2, dp);
+    }
+
+    public static void display(int arr[]){
+        for(int ele : arr){
+            System.out.print(ele + "  ");
+        }
+
+        System.out.println();
+    }
+
+    public static int fibo_tabu(int N, int dp[]){
+        // dp[0] = 0
+        //dp[1] = 1;
+        for(int n = 0; n<=N; n++){
+            if(n<=1) {
+                 dp[n] = n;
+                 continue;
+            }
+
+            //if(dp[n] != -1) return dp[n];
+            dp[n] = dp[n-1] + dp[n-2];
+             
+        }
+        return dp[N];
     }
 
 }

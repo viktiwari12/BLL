@@ -1,0 +1,3 @@
+Q 1) 
+    Reverser the number, but rteturn tyoe should be int 
+    (SImpally it means for the rerversed number)

@@ -1,0 +1,5 @@
+{Aritri=75, Aditya=67}
+{Aritri=75, Aditya=77}
+false
+true
+{v=[10, 10, 10, 10]}

@@ -1,0 +1,10 @@
+S1 -> l001$student@251a69d7
+S2 -> l001$student@7344699f
+S3 -> l001$student@7344699f
+ABS
+Mimansa
+Mr. M Sinha
+20
+false
+CS
+Preetha

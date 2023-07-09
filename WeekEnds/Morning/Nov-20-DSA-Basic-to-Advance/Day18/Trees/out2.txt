@@ -1,0 +1,97 @@
+Visiting  1   for the First Time 
+Visiting  2   for the First Time 
+Visiting  4   for the First Time 
+Hitting Base Case
+Visiting  4   for the Second Time 
+Hitting Base Case
+Visiting  4   for the Third Time 
+Visiting  2   for the Second Time 
+Visiting  5   for the First Time 
+Hitting Base Case
+Visiting  5   for the Second Time 
+Hitting Base Case
+Visiting  5   for the Third Time 
+Visiting  2   for the Third Time 
+Visiting  1   for the Second Time 
+Visiting  3   for the First Time 
+Visiting  6   for the First Time 
+Hitting Base Case
+Visiting  6   for the Second Time 
+Hitting Base Case
+Visiting  6   for the Third Time 
+Visiting  3   for the Second Time 
+Visiting  7   for the First Time 
+Hitting Base Case
+Visiting  7   for the Second Time 
+Hitting Base Case
+Visiting  7   for the Third Time 
+Visiting  3   for the Third Time 
+Visiting  1   for the Third Time 
+
+
+//////////////////////////////////////////////
+Pre Order Traversal 
+
+Visiting  1   for the First Time 
+Visiting  2   for the First Time 
+Visiting  4   for the First Time 
+Hitting Base Case
+Hitting Base Case
+Visiting  5   for the First Time 
+Hitting Base Case
+Hitting Base Case
+Visiting  3   for the First Time 
+Visiting  6   for the First Time 
+Hitting Base Case
+Hitting Base Case
+Visiting  7   for the First Time 
+Hitting Base Case
+Hitting Base Case
+
+
+
+
+//////``````````````````````````````````````
+
+InOrder Traversal 
+
+Hitting Base Case
+Visiting  4   for the Second Time 
+Hitting Base Case
+Visiting  2   for the Second Time 
+Hitting Base Case
+Visiting  5   for the Second Time 
+Hitting Base Case
+Visiting  1   for the Second Time 
+Hitting Base Case
+Visiting  6   for the Second Time 
+Hitting Base Case
+Visiting  3   for the Second Time 
+Hitting Base Case
+Visiting  7   for the Second Time 
+Hitting Base Case
+
+
+
+```````````````````````````````````````````````````````
+
+
+
+````````````````````````````````````````````````````````````````
+Post Order Traversal 
+
+Hitting Base Case
+Hitting Base Case
+Visiting  4   for the Third Time 
+Hitting Base Case
+Hitting Base Case
+Visiting  5   for the Third Time 
+Visiting  2   for the Third Time 
+Hitting Base Case
+Hitting Base Case
+Visiting  6   for the Third Time 
+Hitting Base Case
+Hitting Base Case
+Visiting  7   for the Third Time 
+Visiting  3   for the Third Time 
+Visiting  1   for the Third Time 

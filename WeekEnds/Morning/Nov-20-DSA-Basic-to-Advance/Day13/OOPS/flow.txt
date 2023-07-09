@@ -1,0 +1,18 @@
+1) Basic of OOPs 
+2)   Class & Object 
+3)   Reference and Instance 
+4)   assining values in obejects 
+5)    Reading values from object 
+
+6)   Constructors
+    6.1) Default Constructor 
+    6.2) No Parametrized Constructor 
+    6.3) Parametrized Constructor
+    6.4) Multiple Parametrized Constructor
+
+7) This keyword 
+
+
+8) Swap Game 
+
+9) Static 

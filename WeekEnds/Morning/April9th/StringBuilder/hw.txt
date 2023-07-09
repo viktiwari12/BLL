@@ -1,0 +1,43 @@
+ Given a string which represent time in 12 hr format . Convert it inot 24 hrs format 
+
+ 2) Given an Array, Find the second largest , third largest , second smallest and third smallest 
+
+
+ 3) Given an array, and  a target value,. Find the index of the last ocurence of the target value
+
+ 4) Given an array, find all the peak elemets in the array 
+        An element is considered to be a peak element if it's imideate left and Imideate right is samller thatn it 
+
+ 5) For the first and and the last element of the array 
+         -> Do once considering Circular array 
+         -> Do once considering linear array 
+
+[ 5 4 6 8 7 ]
+Just call or text ur batch manager( Princi mam) ask her to connet to any TA/Instructor available 
+
+tell ur bacth name 
+
+
+// Two Intermideate level Question 
+
+
+q1) Given two arrays both represening a number -> Find sum of two Arrays 
+
+a1 -> [ 1 2  3 4 ] -> 
+a2 -> [ 5 6  7 8 ]
+ans ->[ 6 9 1 2  ]   Note: You have to return an array 
+1234 + 5678 = 
+
+Note:-> You are not allowed to contever the array into integer
+
+q2) Similar to the above do the subtraction , Here also u will have to return an ans as an array 
+
+
+
+// Also Complete all the previous pending task. 
+
+
+
+9717970966 // What's app me. 
+
+

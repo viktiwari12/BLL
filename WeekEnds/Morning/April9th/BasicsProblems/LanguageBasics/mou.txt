@@ -1,0 +1,4 @@
+Some basics syntax 
+input output 
+operators 
+conditionals 

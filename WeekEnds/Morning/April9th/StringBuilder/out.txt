@@ -1,0 +1,3 @@
+Sum of Black Spots  220
+Sum of White Spots  356
+-136

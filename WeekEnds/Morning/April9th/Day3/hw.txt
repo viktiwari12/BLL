@@ -1,0 +1,16 @@
+// Reffer to the screenshot attached or in case you can checkout the following link 
+https://javacodepoint.com/logical-programs/top-30-star-pattern-programs-in-java/
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11 (Try, but will discuss in the class)
+
+// Make sure your previous hws are also completed 
+// In case u r stuck, take help from doubt support. 

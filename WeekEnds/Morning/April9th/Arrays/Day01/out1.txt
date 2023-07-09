@@ -1,0 +1,19 @@
+['a', "Vikash", 10, 10.5, true, [10, 20, 30]];
+a
+string
+
+Vikash
+string
+
+10
+number
+
+10.5
+number
+
+true
+boolean
+
+[ 10, 20, 30 ]
+object
+

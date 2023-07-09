@@ -1,0 +1,23 @@
+Using recursion 
+
+
+1) Find the sum of all the elements in array 
+
+2) Find product of all the elements in  the array 
+
+3) Find min element in the array 
+
+4) Find the Maximum of all the array 
+
+5) Array Contains Duplicate elements, Given a target, Find the index where it appears fo5r the First time 
+
+
+6) Array Contains Duplicate elements, Given a target, Find the index where it appears fo5r the last time 
+ 
+
+In case u want more, visit www.geeksforgeeks.com
+
+search basic recursion problems 
+
+  0 1  2 3  4 5 6 7 8  -> Idx 
+{ 1 2  3 3  2 2 2 2 5 } -> elements  tar -2 

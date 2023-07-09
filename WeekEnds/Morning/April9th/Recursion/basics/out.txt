@@ -1,0 +1,27 @@
+Sum of  5  Numbers
+First find sum of  4numbers
+Sum of  4  Numbers
+First find sum of  3numbers
+Sum of  3  Numbers
+First find sum of  2numbers
+Sum of  2  Numbers
+First find sum of  1numbers
+Sum of  1  Numbers
+First find sum of  0numbers
+Sum of  0  Numbers
+First find sum of  -1numbers
+
+Sum of0 numbers is now  0
+Sum of1 numbers is now  1
+
+Sum of1 numbers is now  1
+Sum of2 numbers is now  3
+
+Sum of2 numbers is now  3
+Sum of3 numbers is now  6
+
+Sum of3 numbers is now  6
+Sum of4 numbers is now  10
+
+Sum of n-1 numbers is now  10
+Sum of n numbers is now  15

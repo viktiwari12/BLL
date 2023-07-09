@@ -1,0 +1,61 @@
+First  ->. 1
+First  ->. 2
+First  ->. 4
+Second ->. 4
+First  ->. 11
+Second ->. 11
+Thrid ->. 11
+Thrid ->. 4
+Second ->. 2
+First  ->. 5
+Second ->. 5
+Thrid ->. 5
+Thrid ->. 2
+Second ->. 1
+First  ->. 3
+First  ->. 6
+First  ->. 12
+Second ->. 12
+Thrid ->. 12
+Second ->. 6
+First  ->. 13
+Second ->. 13
+Thrid ->. 13
+Thrid ->. 6
+Second ->. 3
+First  ->. 10
+Second ->. 10
+First  ->. 14
+Second ->. 14
+Thrid ->. 14
+Thrid ->. 10
+Thrid ->. 3
+Thrid ->. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Pre -> Root 
+        LST 
+        RST
+
+ IN  -> LST 
+        ROOT 
+        RST
+
+POST -> LST
+        RST
+        ROOT 
+

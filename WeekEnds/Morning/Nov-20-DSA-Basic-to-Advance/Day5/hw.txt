@@ -1,0 +1,35 @@
+NOTE:  The only purpose is, Yopu should be able to convert your logic to into code. 
+
+1) Two sum 
+
+1 2 3 4 5 6 6 7 8   tar = 10
+
+2) Three sum 
+
+
+3) Convert a number for decomal to binary 
+
+4) convert a binary number to decimal 
+
+5) Generate Subsequence/subset ( Hint : try using the concept of binary)
+
+6) Wave Traversal of Matrix 
+
+7) Given an Interger array => Form the number 
+
+8) Given an Integer  (1456263460) and a target dig = 6 (always one dig) calculate it's frequency 
+
+
+9) sum of two arrays ( by forming the number) // make sure the ans should be in array 
+
+1 2 3  => A = 123
+4 4 6  => B = 446  : SUM = A+ B; 
+
+
+10) form the reverse of a number ( Note :- You are not allowed to use array )A =  12345 =>   B = 54321 
+
+
+
+Mo:- 9717970966
+
+text mwe with your name and batch 

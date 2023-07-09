@@ -1,0 +1,19 @@
+1. Print Statement in java
+2. Variables 
+    int
+    char 
+    string 
+    boolean
+    double
+3. Taking Input
+
+4. A lot of concepts ( public, static, package main nad may more) will be taught during OOPS leacture 
+
+
+5. Loops 
+    for 
+    while 
+    dowhile
+
+6. Array
+    

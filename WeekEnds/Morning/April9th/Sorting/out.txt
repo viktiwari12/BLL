@@ -1,0 +1,30 @@
+Before Swapping 
+5  4  3  2  1  
+Comparing  5  4
+Swapping 5  4
+Comparing  5  3
+Swapping 5  3
+Comparing  5  2
+Swapping 5  2
+Comparing  5  1
+Swapping 5  1
+Comparing  4  3
+Swapping 4  3
+Comparing  4  2
+Swapping 4  2
+Comparing  4  1
+Swapping 4  1
+Comparing  4  5
+Comparing  3  2
+Swapping 3  2
+Comparing  3  1
+Swapping 3  1
+Comparing  3  4
+Comparing  4  5
+Comparing  2  1
+Swapping 2  1
+Comparing  2  3
+Comparing  3  4
+Comparing  4  5
+After Swapping 
+1  2  3  4  5  

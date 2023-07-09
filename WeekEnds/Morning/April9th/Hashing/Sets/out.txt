@@ -1,0 +1,16 @@
+curr ele is  1 -> b
+Checking if the 9 -> a  is present or not 
+Dind't find the complement so adding the current ele i.e   1
+curr ele is  2
+Checking if the 8 -> a is present or not 
+Dind't find the complement so adding the current ele i.e   2
+curr ele is  3
+Checking if the 7  is present or not 
+Dind't find the complement so adding the current ele i.e   3
+curr ele is  4
+Checking if the 6  is present or not 
+Dind't find the complement so adding the current ele i.e   4
+curr ele is  5 -> b
+Checking if the 5  is present or not 
+Dind't find the complement so adding the current ele i.e   5
+false

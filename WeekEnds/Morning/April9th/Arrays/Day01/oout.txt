@@ -1,0 +1,16 @@
+real Address of arr [I@7ad041f3
+clone Address of arr1 [I@251a69d7
+Address of arr [I@7ad041f3
+Address of arr1 [I@7ad041f3
+2060468723
+2060468723
+element of arr 500
+elements of arr1 500
+5
+Address of second array 
+[I@18b4aac2
+10
+20
+30
+40
+50

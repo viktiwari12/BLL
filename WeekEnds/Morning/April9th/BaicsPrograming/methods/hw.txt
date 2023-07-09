@@ -1,0 +1,20 @@
+Q1) Print all Prime till n 
+
+Q2) Print nth fibbonacci nuiber 
+
+Q3) Given N, Print all N fibbanaci number 
+
+Q4) Given a number, count the digits of the number -> 12345 -> 5 || 001 -> 1
+
+Q5) Given a number, Reverse it.  12345 -> 54321 
+
+Q6 ) Given a number and a int k, rotate the number by k .  n = 123456 k = 1 -> 612345 || n = 123456 k = 2 -> 561234 k= 3 ->  456123 
+        k=  -2 -> 345612
+    
+Q7) Given a num n print al the prime factors of that number 
+
+Q8 ) Given a number n -> Print it into binary form 
+
+Q9 ) Given two numbers n & m.  You are required to print the Greatest Common Divisor (GCD) of two numbers
+
+Q10) You are also required to print the Lowest Common Multiple (LCM) of the same numbers.

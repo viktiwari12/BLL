@@ -1,0 +1,72 @@
+Figuring out first ans from row  0  and  col  0  Which is  0
+Figuring out Second ans from row  0  and  col  1  Which is  0
+adding currcost to first possibility aftr which  C1 ->  1 and   c2 ->   0
+Figuring out first ans from row  0  and  col  1  Which is  0
+Figuring out Second ans from row  0  and  col  2  Which is  0
+adding currcost to first possibility aftr which  C1 ->  1 and   c2 ->   0
+Figuring out first ans from row  0  and  col  2  Which is  0
+Figuring out Second ans from row  0  and  col  3  Which is  0
+adding currcost to first possibility aftr which  C1 ->  1 and   c2 ->   0
+Figuring out first ans from row  0  and  col  3  Which is  0
+Figuring out Second ans from row  0  and  col  4  Which is  0
+adding currcost to first possibility aftr which  C1 ->  1 and   c2 ->   0
+Figuring out first ans from row  0  and  col  4  Which is  0
+Figuring out Second ans from row  0  and  col  5  Which is  0
+adding currcost to first possibility aftr which  C1 ->  1 and   c2 ->   0
+Figuring out first ans from row  0  and  col  5  Which is  0
+Figuring out Second ans from row  0  and  col  6  Which is  0
+adding currcost to first possibility aftr which  C1 ->  1 and   c2 ->   0
+Figuring out first ans from row  0  and  col  6  Which is  0
+Figuring out Second ans from row  0  and  col  7  Which is  0
+adding currcost to first possibility aftr which  C1 ->  1 and   c2 ->   0
+Figuring out Second ans from row  1  and  col  1  Which is  1
+Figuring out Second ans from row  1  and  col  2  Which is  1
+Figuring out first ans from row  1  and  col  0  Which is  0
+Figuring out Second ans from row  1  and  col  3  Which is  1
+adding currcost to first possibility aftr which  C1 ->  4 and   c2 ->   1
+Figuring out first ans from row  1  and  col  1  Which is  1
+Figuring out Second ans from row  1  and  col  4  Which is  1
+adding currcost to first possibility aftr which  C1 ->  5 and   c2 ->   1
+Figuring out first ans from row  1  and  col  2  Which is  1
+Figuring out Second ans from row  1  and  col  5  Which is  1
+adding currcost to first possibility aftr which  C1 ->  5 and   c2 ->   1
+Figuring out first ans from row  1  and  col  3  Which is  1
+Figuring out Second ans from row  1  and  col  6  Which is  1
+adding currcost to first possibility aftr which  C1 ->  5 and   c2 ->   1
+Figuring out first ans from row  1  and  col  4  Which is  1
+Figuring out Second ans from row  1  and  col  7  Which is  1
+adding currcost to first possibility aftr which  C1 ->  5 and   c2 ->   1
+Figuring out Second ans from row  2  and  col  1  Which is  1
+Figuring out Second ans from row  2  and  col  2  Which is  1
+Figuring out Second ans from row  2  and  col  3  Which is  4
+Figuring out first ans from row  2  and  col  0  Which is  0
+Figuring out Second ans from row  2  and  col  4  Which is  5
+adding currcost to first possibility aftr which  C1 ->  5 and   c2 ->   5
+Figuring out first ans from row  2  and  col  1  Which is  1
+Figuring out Second ans from row  2  and  col  5  Which is  5
+adding currcost to first possibility aftr which  C1 ->  6 and   c2 ->   5
+Figuring out first ans from row  2  and  col  2  Which is  1
+Figuring out Second ans from row  2  and  col  6  Which is  5
+adding currcost to first possibility aftr which  C1 ->  6 and   c2 ->   5
+Figuring out first ans from row  2  and  col  3  Which is  4
+Figuring out Second ans from row  2  and  col  7  Which is  5
+adding currcost to first possibility aftr which  C1 ->  9 and   c2 ->   5
+Figuring out Second ans from row  3  and  col  1  Which is  1
+Figuring out Second ans from row  3  and  col  2  Which is  1
+Figuring out Second ans from row  3  and  col  3  Which is  4
+Figuring out Second ans from row  3  and  col  4  Which is  5
+Figuring out first ans from row  3  and  col  0  Which is  0
+Figuring out Second ans from row  3  and  col  5  Which is  6
+adding currcost to first possibility aftr which  C1 ->  7 and   c2 ->   6
+Figuring out first ans from row  3  and  col  1  Which is  1
+Figuring out Second ans from row  3  and  col  6  Which is  6
+adding currcost to first possibility aftr which  C1 ->  8 and   c2 ->   6
+Figuring out first ans from row  3  and  col  2  Which is  1
+Figuring out Second ans from row  3  and  col  7  Which is  9
+adding currcost to first possibility aftr which  C1 ->  8 and   c2 ->   9
+9
+0   0   0   0   0   0   0   0   
+0   1   1   1   1   1   1   1   
+0   1   1   4   5   5   5   5   
+0   1   1   4   5   6   6   9   
+0   1   1   4   5   7   8   9   

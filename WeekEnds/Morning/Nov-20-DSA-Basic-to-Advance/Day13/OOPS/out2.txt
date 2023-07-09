@@ -1,0 +1,34 @@
+Details of S1
+ABS
+Mimansa
+Mr. M Sinha
+20
+false
+CS
+
+Details of S2
+XYZ College
+Vikash
+H K Tiwary
+49
+true
+IT
+
+
+Details of S1
+ABS
+Mimansa
+Mr. M Sinha
+20
+false
+CS
+
+Details of S2
+XYZ College
+Vikash
+H K Tiwary
+49
+true
+IT
+
+

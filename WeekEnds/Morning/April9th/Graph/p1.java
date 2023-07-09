@@ -27,5 +27,15 @@ public class p1 {
             W[i] = w;
 
         }
+
+        System.out.println("Graph Information ");
+        System.out.println("No of nodes" + n);
+        System.out.println("No of edges" + e);
+
+         for(int i = 0; i< e; i++){
+             System.out.println("Information of  "+ i+"th  edge " );
+             System.out.println("Src -> " + U[i] + "   Dest ->  " + V[i] + "  Weight  ->  " + W[i]);
+         }
     }
+    
 }

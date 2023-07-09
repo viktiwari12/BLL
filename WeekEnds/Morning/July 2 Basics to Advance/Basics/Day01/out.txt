@@ -1,0 +1,7 @@
+1234567  pow -> 10    Divinding it now   123456   ->  7
+1234567  pow -> 100    Divinding it now   12345   ->  67
+1234567  pow -> 1000    Divinding it now   1234   ->  567
+1234567  pow -> 10000    Divinding it now   123   ->  4567
+1234567  pow -> 100000    Divinding it now   12   ->  34567
+1234567  pow -> 1000000    Divinding it now   1   ->  234567
+1234567  pow -> 10000000    Divinding it now   0   ->  1234567

@@ -1,7 +1,15 @@
 
 import java.util.*;
 public class l001 {
-    public class node{
+    public static class pair{
+        node root;
+        int lvl;
+        pair(node root, int lvl){
+            this.root= root;
+            this.lvl = lvl;
+        }
+    }
+    public static class node{
         int val;
         node left;
         node right;
@@ -36,4 +44,19 @@ public class l001 {
         verticalOrder(root.right, hm, curr +1 );
        
     }
+     public static void verticalOrderHor(node root, HashMap<Integer, ArrayList<Integer>>hm , int curr){
+        
+        Queue<pair> q = new ArrayDeque<>();
+        q.offer(new pair(root, curr));
+        while(q.size()> 0){
+            pair temp = q.remove();
+            int cl = temp.lvl + lm;
+            if(!hm.containsKey(cl)){
+                hm.put(cl, new ArrayList<>()); // first create a arraylIst 
+            }
+            hm.get(cl).add(root.val);
+            if(temp.root.left != null) q.offer(new pair(temp.root.left, cl -1));
+            if(temp.root.right != null) q.offer(new pair(temp.root.right, cl +1));
+        }
+     }
 }

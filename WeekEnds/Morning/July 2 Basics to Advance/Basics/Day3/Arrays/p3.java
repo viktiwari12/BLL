@@ -72,5 +72,34 @@ public class p3 {
         /*
             if(cr!= 0) a3[k] = cr;
         */
+
+        //HW Problems 
+        // Sutraction  (a2 >= a1)
+
+        // Multiplicatoion 
+    }
+
+    public static void reverse(int arr[]){
+        // reverse the elewments of the array 
+        // Note: You hae to reverse the elements inside the array, not that u have to just print in reverse order 
+
+        // swap the elements from first and last 
+        int st = 0, end = arr.length -1;
+        while (st < end){
+            swap(arr, st++, end--);
+        }
+    }
+    public static void swap(int arr[], int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    public static boolean isPalindrome(int arr[]){
+        // Given a array, check if it's palindrome or not? 
+         int st = 0, end = arr.length -1;
+        while (st < end){
+           if(arr[st++] != arr[end--]) return false;
+        }
+        return true;
     }
 }

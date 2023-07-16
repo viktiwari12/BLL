@@ -1,0 +1,15 @@
+Main Array 
+a  b  c  d  e  
+f  g  h  i  j  
+k  l  m  n  o  
+p  q  r  s  t  
+u  v  w  x  y  
+
+RowWise
+a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  
+ColWise
+a  f  k  p  u  b  g  l  q  v  c  h  m  r  w  d  i  n  s  x  e  j  o  t  y  
+RowWise ALternet
+a  b  c  d  e  j  i  h  g  f  k  l  m  n  o  t  s  r  q  p  u  v  w  x  y  
+ColWise  Alternate
+a  f  k  p  u  v  q  l  g  b  c  h  m  r  w  x  s  n  i  d  e  j  o  t  y  

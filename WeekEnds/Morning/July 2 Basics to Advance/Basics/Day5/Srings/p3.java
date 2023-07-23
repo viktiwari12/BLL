@@ -27,14 +27,14 @@ public class p3 {
    }
    public static boolean isPalindrome (String str , int i, int j ){
         // The purpose of this function is just simpally return weather the collections of character from i to j is sustring or not
-
-        while(i<j){
-            char ch1 = str.charAt(i);
-            char ch2 = str.charAt(j);
+        int x = i, y= j;
+        while(x<y){
+            char ch1 = str.charAt(x);
+            char ch2 = str.charAt(x);
             if(ch1 != ch2) return false;
 
-            i++;
-            j--;
+            x++;
+            y--;
         }
         return true;
    }

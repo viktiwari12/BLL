@@ -1,0 +1,23 @@
+Print Increasing 
+1
+2
+3
+4
+5
+Print Decreasing 
+5
+4
+3
+2
+1
+Print Decreasing - Increasing 
+5
+4
+3
+2
+1
+1
+2
+3
+4
+5

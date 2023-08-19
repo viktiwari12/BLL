@@ -1,0 +1,35 @@
+Total no of combination 2
+All Combinations
+Total no of Permutation0
+All Permutation
+-2-3-5
+-2-5-3
+-3-2-5
+-3-5-2
+-3-7
+-5-2-3
+-5-3-2
+-7-3
+
+Infinite series 
+Total no of combination 3
+
+All Combinations
+Total no of Permutation16
+All Permutation
+22222
+2233
+2323
+2332
+235
+253
+3223
+3232
+325
+3322
+352
+37
+523
+532
+55
+73

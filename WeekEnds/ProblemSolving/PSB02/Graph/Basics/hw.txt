@@ -1,0 +1,11 @@
+Given a graph 
+
+    . Given an Edge 
+            Find
+                01) If the edge is present in the graph 
+                02) Add a new new edge
+                03) Delete an edge 
+                04) Delete a vertex
+                05) Given a Source and a destination node, Figure out the total no f paths available 
+                        Print each Path 
+                        

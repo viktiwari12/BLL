@@ -1,0 +1,64 @@
+ v  v  v  h  h  h 
+ v  v  h  v  h  h 
+ v  h  v  v  h  h 
+ h  v  v  v  h  h 
+ d  v  v  h  h 
+ v  d  v  h  h 
+ v  v  d  h  h 
+ v  v  h  h  v  h 
+ v  h  v  h  v  h 
+ h  v  v  h  v  h 
+ d  v  h  v  h 
+ v  d  h  v  h 
+ v  h  h  v  v  h 
+ h  v  h  v  v  h 
+ d  h  v  v  h 
+ h  h  v  v  v  h 
+ h  d  v  v  h 
+ v  h  d  v  h 
+ h  v  d  v  h 
+ d  d  v  h 
+ v  v  h  d  h 
+ v  h  v  d  h 
+ h  v  v  d  h 
+ d  v  d  h 
+ v  d  d  h 
+ v  v  h  h  h  v 
+ v  h  v  h  h  v 
+ h  v  v  h  h  v 
+ d  v  h  h  v 
+ v  d  h  h  v 
+ v  h  h  v  h  v 
+ h  v  h  v  h  v 
+ d  h  v  h  v 
+ h  h  v  v  h  v 
+ h  d  v  h  v 
+ v  h  d  h  v 
+ h  v  d  h  v 
+ d  d  h  v 
+ v  h  h  h  v  v 
+ h  v  h  h  v  v 
+ d  h  h  v  v 
+ h  h  v  h  v  v 
+ h  d  h  v  v 
+ h  h  h  v  v  v 
+ h  h  d  v  v 
+ v  h  h  d  v 
+ h  v  h  d  v 
+ d  h  d  v 
+ h  h  v  d  v 
+ h  d  d  v 
+ v  v  h  h  d 
+ v  h  v  h  d 
+ h  v  v  h  d 
+ d  v  h  d 
+ v  d  h  d 
+ v  h  h  v  d 
+ h  v  h  v  d 
+ d  h  v  d 
+ h  h  v  v  d 
+ h  d  v  d 
+ v  h  d  d 
+ h  v  d  d 
+ d  d  d 
+63
